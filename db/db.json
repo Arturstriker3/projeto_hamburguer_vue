@@ -1,0 +1,141 @@
+{
+  "ingredientes": {
+    "tamanhos": [
+      {
+        "id": 1,
+        "tipo": "Extra Grande (GG)",
+        "valor": 5
+      },
+      {
+        "id": 2,
+        "tipo": "Grande (G)"
+      },
+      {
+        "id": 3,
+        "tipo": "Médio (M)"
+      },
+      {
+        "id": 4,
+        "tipo": "Pequenho (P)"
+      }
+    ],
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco",
+        "valor": 5
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha",
+        "valor": 10
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "Bete",
+      "tamanho": "Extra Grande (GG)",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "preco": "",
+      "opcionais": [
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Bete",
+      "tamanho": "Extra Grande (GG)",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "preco": "",
+      "opcionais": [
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 2
+    },
+    {
+      "nome": "Artur Daniel de Oliveira Gama",
+      "tamanho": "Grande (G)",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 3
+    }
+  ]
+}
