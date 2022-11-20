@@ -38,7 +38,7 @@ npm run backend
 
 **Interface para Montar o Pedido**
 <div align="center">
-<img src="https://user-images.githubusercontent.com/59231364/202909924-f26c573e-e2b5-4c1b-8bb9-3bbf3d73307b.png" width="600px" height="600px" />
+<img src="https://user-images.githubusercontent.com/59231364/202909924-f26c573e-e2b5-4c1b-8bb9-3bbf3d73307b.png" width="400px" height="400px" />
 </div>
 <p>Todos os dados referentes a montagem do burger vem da db.json</p>
 <br/>
