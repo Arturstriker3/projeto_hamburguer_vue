@@ -22,8 +22,8 @@ npm run backend
 ### Faça seu Hamburguer é um projeto baseado no funcionamento de uma lanchonete. 
  
  
- Nesse projeto o foco foi desenvolver uma ferramente que permita a melhoria,
- no gerenciamento interno de um modelo de negócio proximo a uma lanchonete.
+ Nesse projeto o foco foi desenvolver uma ferramente que permita o aprimoramento
+ do gerenciamento interno de um modelo de negócio proximo a uma lanchonete.
  
  **O que utilizei**
 * Linguagem JavaScript;
