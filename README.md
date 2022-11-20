@@ -32,7 +32,7 @@ npm run backend
 
 **Visual Demonstrativo**
 <div align="center">
-<img src="https://user-images.githubusercontent.com/59231364/202909856-573dffc5-5766-4a24-af77-8b49d01435a2.png" width="800px" height="800px" />
+<img src="https://user-images.githubusercontent.com/59231364/202909856-573dffc5-5766-4a24-af77-8b49d01435a2.png" width="auto" height="auto" />
 </div>
 <br/>
 
