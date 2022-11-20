@@ -18,5 +18,14 @@ npm run build
 ```
 npm run backend
 ```
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Faça seu Hamburguer é um projeto baseado no funcionamento de uma lanchonete. 
+ 
+ 
+ Nesse projeto o foco foi desenvolver uma ferramente que permita a melhoria,
+ no gerenciamento interno de um modelo de negócio proximo a uma lanchonete.
+ 
+ **O que utilizei**
+* Linguagem JavaScript;
+* FrameWork Vuejs;
+* Biblioteca Vuex para Vue.js ;
