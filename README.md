@@ -40,16 +40,12 @@ npm run backend
 <br/>
 
 **Finalizando o Pedido**
-<div align="center">
 ![image](https://user-images.githubusercontent.com/59231364/202910045-3b6d0a5b-d861-41b7-9645-27e899be498b.png)
-</div>
 <p>O pedido é catalogado e incrementado na db.json</p>
 <br/>
 
 **Pedido Finalizado**
-<div align="center">
 ![image](https://user-images.githubusercontent.com/59231364/202910045-3b6d0a5b-d861-41b7-9645-27e899be498b.png)
-</div>
 <p>O pedido é incrementado na db.json</p>
  <br/>
  
