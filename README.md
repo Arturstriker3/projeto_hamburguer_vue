@@ -23,7 +23,7 @@ npm run backend
  
  
  Nesse projeto o foco foi desenvolver uma ferramente que permita o aprimoramento
- do gerenciamento interno de um modelo de negócio proximo a uma lanchonete.
+ do gerenciamento interno de um modelo de negócio proximo a de uma lanchonete.
  
  **O que utilizei**
 * Linguagem JavaScript;
